@@ -14,8 +14,8 @@ header('Content-Type: text/plain');
 
 $endpoint = 'http://engineering.dev-academickeys.com/api/server.php';
 
-$username = 'peopleadmin';
-$password = 'oZ1zFSDOXsFpzxva';
+$username = '';
+$password = '';
 
 $xml = '<?xml version="1.0" encoding="UTF-8" ?>
 <API>
