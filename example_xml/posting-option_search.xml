@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<API>
+	<Session>
+		<APIUsername><![CDATA[' . $username . ']]></APIUsername>
+		<APIKey><![CDATA[' . $password . ']]></APIKey>
+		<APITicket><![CDATA[ ]]></APITicket>
+	</Session>
+	<Request type="PostingOptionSearch">
+	
+		<PostingOption>
+			<Discipline>Staff &amp; Non-Managerial Professionals</Discipline>
+		</PostingOption>
+		
+	</Request>
+</API>
