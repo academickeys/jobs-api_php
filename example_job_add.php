@@ -12,7 +12,7 @@
 
 header('Content-Type: text/plain');
 
-$endpoint = 'http://engineering.dev-academickeys.com/api/server.php';
+$endpoint = 'https://www.academickeys.com/api/server/v1';
 
 $username = '';
 $password = '';
